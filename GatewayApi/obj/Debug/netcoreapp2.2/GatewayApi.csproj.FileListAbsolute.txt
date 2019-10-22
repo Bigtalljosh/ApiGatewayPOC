@@ -1,0 +1,14 @@
+C:\Code\jd-apigateway-poc\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.csprojAssemblyReference.cache
+C:\Code\jd-apigateway-poc\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.csproj.CoreCompileInputs.cache
+C:\Code\jd-apigateway-poc\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.RazorAssemblyInfo.cache
+C:\Code\jd-apigateway-poc\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.RazorAssemblyInfo.cs
+C:\Code\jd-apigateway-poc\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.AssemblyInfoInputs.cache
+C:\Code\jd-apigateway-poc\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.AssemblyInfo.cs
+C:\Code\jd-apigateway-poc\GatewayApi\bin\Debug\netcoreapp2.2\GatewayApi.deps.json
+C:\Code\jd-apigateway-poc\GatewayApi\bin\Debug\netcoreapp2.2\GatewayApi.runtimeconfig.json
+C:\Code\jd-apigateway-poc\GatewayApi\bin\Debug\netcoreapp2.2\GatewayApi.runtimeconfig.dev.json
+C:\Code\jd-apigateway-poc\GatewayApi\bin\Debug\netcoreapp2.2\GatewayApi.dll
+C:\Code\jd-apigateway-poc\GatewayApi\bin\Debug\netcoreapp2.2\GatewayApi.pdb
+C:\Code\jd-apigateway-poc\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.RazorTargetAssemblyInfo.cache
+C:\Code\jd-apigateway-poc\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.dll
+C:\Code\jd-apigateway-poc\GatewayApi\obj\Debug\netcoreapp2.2\GatewayApi.pdb
